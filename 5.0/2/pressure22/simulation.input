@@ -1,0 +1,23 @@
+SimulationType                MonteCarlo
+NumberOfEquilibrationCycles   4500
+NumberOfCycles                9000
+PrintEvery                    100
+RestartFile		     yes
+
+Forcefield    TraPPE_Corrected                   
+CutOffVDW	19
+FrameWork 0
+FrameWorkName 5.0A_CH4
+ExternalTemperature 298
+ExternalPressure 34193548.3871
+Movies yes
+WriteMoviesEvery 100
+
+Component 0 MoleculeName             methane
+            MoleculeDefinition       TraPPE_Corrected
+            TranslationProbability   1
+            RotationProbability      1
+            SwapProbability          1
+            CreateNumberOfMolecules  0
+            IdealGasRosenbluthWeight 1
+FugacityCoefficient 0.72715

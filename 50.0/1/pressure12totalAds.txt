@@ -1,0 +1,2 @@
+Pressure (Pa)	 N (molec/uc)	 N_std(molec/uc)
+18387096.7742	616.9457777778	2.7647629863

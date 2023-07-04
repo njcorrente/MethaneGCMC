@@ -1,0 +1,253 @@
+Cell info:
+========================================================================
+number-of-unit-cells: 1 1 1
+unit-cell-vector-a:    41.752800000000     0.000000000000     0.000000000000
+unit-cell-vector-b:     0.000000000000    42.540000000000     0.000000000000
+unit-cell-vector-c:     0.000000000000     0.000000000000    70.150000000000
+
+cell-vector-a:    41.752800000000     0.000000000000     0.000000000000
+cell-vector-b:     0.000000000000    42.540000000000     0.000000000000
+cell-vector-c:     0.000000000000     0.000000000000    70.150000000000
+
+cell-lengths:    41.752800000000    42.540000000000    70.150000000000
+cell-angles:    90.000000000000    90.000000000000    90.000000000000
+
+
+Maximum changes for MC-moves:
+========================================================================
+Maximum-volume-change: 0.001563
+Maximum-Gibbs-volume-change: 0.006250
+Maximum-box-shape-change: 0.100000 0.100000 0.100000, 0.100000 0.100000 0.100000, 0.100000 0.100000 0.100000
+
+
+Acceptance targets for MC-moves:
+========================================================================
+Target-volume-change: 0.500000
+Target-box-shape-change: 0.500000
+Target-Gibbs-volume-change: 0.500000
+
+
+Components: 1 (Adsorbates 34, Cations 0)
+========================================================================
+Component 0 (methane)
+	Fractional-molecule-id component 0: -1
+	Lambda-factors component 0:  0.000000
+	Number-of-biasing-factors component 0: 21
+	Biasing-factors component 0:  0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+	Maximum-CF-Lambda-change component 0: 0.500000
+	Maximum-CBCF-Lambda-change component 0: 0.500000
+
+	Maximum-translation-change component 0: 1.000000,1.000000,0.731250
+	Maximum-translation-in-plane-change component 0: 0.000000,0.000000,0.000000
+	Maximum-rotation-change component 0: 2.208932 2.208932 2.208932
+
+Reactions: 0
+
+Component: 0     Adsorbate    34 molecules of methane
+------------------------------------------------------------------------
+Adsorbate-atom-position: 0 0    10.620043055687    20.704482637780    11.011545858681
+Adsorbate-atom-position: 1 0    22.576390296696    24.397976263841    13.992826753820
+Adsorbate-atom-position: 2 0    27.391639066761    31.050429645100    56.660345929546
+Adsorbate-atom-position: 3 0     2.921873230501    36.414382520934    10.125241893471
+Adsorbate-atom-position: 4 0    28.315099404557     9.435493943007    56.237365991637
+Adsorbate-atom-position: 5 0    40.254453636171     1.365406710294    10.903001371460
+Adsorbate-atom-position: 6 0    12.493031928645     1.794122324814    10.882371970039
+Adsorbate-atom-position: 7 0    38.967197132763    18.208955965477    56.144917648317
+Adsorbate-atom-position: 8 0    30.322318684672    11.617157180705    10.168068049256
+Adsorbate-atom-position: 9 0    27.913464796642    41.517077102024    10.080415918461
+Adsorbate-atom-position: 10 0     7.651366107295    41.723219262426    11.474083269642
+Adsorbate-atom-position: 11 0    19.883976938031    25.236940769435    11.363606550828
+Adsorbate-atom-position: 12 0    12.002846891240     7.840551176456    33.063113570869
+Adsorbate-atom-position: 13 0     9.237437991424    41.431173737147    55.534299592616
+Adsorbate-atom-position: 14 0    26.738164364202     3.621871859712    10.017955631625
+Adsorbate-atom-position: 15 0     8.461113765927     4.151278136799    10.183912896520
+Adsorbate-atom-position: 16 0    19.149941138736    13.202565215375    56.390764703216
+Adsorbate-atom-position: 17 0    14.082603559057    28.349321183176    56.254606080161
+Adsorbate-atom-position: 18 0    26.000947826253    35.510091163185    10.578127775858
+Adsorbate-atom-position: 19 0    13.707339428903    30.748859904617    10.446950147498
+Adsorbate-atom-position: 20 0    14.532294279979    10.589795812461    54.937486589207
+Adsorbate-atom-position: 21 0    33.672254576237    26.218464629761    11.846754087835
+Adsorbate-atom-position: 22 0    21.019437528094     4.849053834837    56.578138226666
+Adsorbate-atom-position: 23 0     9.693842300284     8.645993527084    11.830243801997
+Adsorbate-atom-position: 24 0    19.346684200976     4.834038655795    19.476331828019
+Adsorbate-atom-position: 25 0    34.924581451115     8.563112048563    11.668068256023
+Adsorbate-atom-position: 26 0    40.521500091788    10.746850018753    10.306161305964
+Adsorbate-atom-position: 27 0     6.662260359483    17.097739456160    10.152846356599
+Adsorbate-atom-position: 28 0    36.262093337127    30.594564111518    19.643045285430
+Adsorbate-atom-position: 29 0     2.633962812698     4.936119137934    11.679335909716
+Adsorbate-atom-position: 30 0    33.349913655828    39.565190049923    10.777401566952
+Adsorbate-atom-position: 31 0    10.870534987400    25.504273768127    55.716614179788
+Adsorbate-atom-position: 32 0     5.723708611827    25.217375857640    55.637899779227
+Adsorbate-atom-position: 33 0    32.851626698861     5.244777815729    11.576426549474
+Adsorbate-atom-velocity: 0 0    -4.690165693414     0.774771560788     5.326116162227
+Adsorbate-atom-velocity: 1 0     0.594707630186     1.500460468379    -3.716460310358
+Adsorbate-atom-velocity: 2 0    -1.214072622847   -10.040283203468     1.850668729432
+Adsorbate-atom-velocity: 3 0    -0.331050372128     1.172638937787     1.537002191137
+Adsorbate-atom-velocity: 4 0    -0.896695491165    -2.584645425681     3.605728479799
+Adsorbate-atom-velocity: 5 0    -1.547844729844    -3.460130935669     1.089940312997
+Adsorbate-atom-velocity: 6 0   -10.913291375273     2.856983294784    -2.820830258410
+Adsorbate-atom-velocity: 7 0     2.133111217345     7.493679013524    -0.047467763145
+Adsorbate-atom-velocity: 8 0    -4.278182444819     2.516731050704    -0.663019484361
+Adsorbate-atom-velocity: 9 0    -1.248865290686    -3.107706305609    -0.393430611313
+Adsorbate-atom-velocity: 10 0     4.233691780532     4.458753253609    -3.227069944833
+Adsorbate-atom-velocity: 11 0     3.298776652126    -3.712938825536    -4.079541237616
+Adsorbate-atom-velocity: 12 0     1.166790056409    -0.733715662896     4.680515163098
+Adsorbate-atom-velocity: 13 0    -1.567055874032    -3.341247362981    -6.105107820234
+Adsorbate-atom-velocity: 14 0    -2.065242392740    -6.712900830908    -2.808884837206
+Adsorbate-atom-velocity: 15 0    -3.354460451461    -2.162686200649    -5.040526929537
+Adsorbate-atom-velocity: 16 0     9.895084751359     2.179983348808     3.042202712569
+Adsorbate-atom-velocity: 17 0     1.412455340388    -1.519954952620    -0.981819261883
+Adsorbate-atom-velocity: 18 0    -0.411693837395    -0.906476828930    -2.352370170510
+Adsorbate-atom-velocity: 19 0     2.242083444555     2.966839465841     4.267330309120
+Adsorbate-atom-velocity: 20 0    -2.652387828678     2.203830638451     6.299006575782
+Adsorbate-atom-velocity: 21 0    -0.537484150338     0.513528115283    -5.824570282985
+Adsorbate-atom-velocity: 22 0     4.506649884658    -0.143391682469    -0.329476625911
+Adsorbate-atom-velocity: 23 0    -2.994320902033     3.961253787763     2.997978539067
+Adsorbate-atom-velocity: 24 0     2.286765221690     5.126640663770     4.034875238457
+Adsorbate-atom-velocity: 25 0    -1.780858637148     3.860556836339     4.543150459885
+Adsorbate-atom-velocity: 26 0    -5.788134052000    -7.383599956342     4.152931209281
+Adsorbate-atom-velocity: 27 0    -6.714323502429     3.544115045546     4.918409522240
+Adsorbate-atom-velocity: 28 0    -5.090495144767    -5.383492331364    -2.264860913591
+Adsorbate-atom-velocity: 29 0    -7.086535474098    -1.659214707818    -2.729684699130
+Adsorbate-atom-velocity: 30 0     4.016092668296     4.635599026951     5.677674921740
+Adsorbate-atom-velocity: 31 0    -5.238526574582    -5.514846040086    -0.225567893850
+Adsorbate-atom-velocity: 32 0     2.981065233680     0.285346472954     4.989876028104
+Adsorbate-atom-velocity: 33 0     3.828344763817     1.791339381076    -4.665281231043
+Adsorbate-atom-force:    0 0   -33.034961468460   -29.771666203756  -537.319374403459
+Adsorbate-atom-force:    1 0   280.458765215392   -87.015263706868   213.792129056813
+Adsorbate-atom-force:    2 0    44.755820440290     9.818178788770  -467.760092948577
+Adsorbate-atom-force:    3 0    12.455651566473    10.735319791423   583.724553032140
+Adsorbate-atom-force:    4 0    -3.397978021114     5.677081221394   541.472071911103
+Adsorbate-atom-force:    5 0    28.424273034605    27.213099038768  -553.749113228697
+Adsorbate-atom-force:    6 0  -104.530039711526    24.981602042379  -565.347685253078
+Adsorbate-atom-force:    7 0    -2.682330752866     1.247706173237   563.170925786481
+Adsorbate-atom-force:    8 0    -1.892528693052   -10.800785033107   334.285024354138
+Adsorbate-atom-force:    9 0   -44.473708413017    72.083208164551   855.557189637128
+Adsorbate-atom-force:    10 0    35.354144965222    72.859949199841  -407.757262731500
+Adsorbate-atom-force:    11 0  -282.934292038007    89.035656086277  -696.116424159916
+Adsorbate-atom-force:    12 0     0.015542637579    -0.006363040535    -0.028755324442
+Adsorbate-atom-force:    13 0     0.401199498499     0.174894450021   453.478841380647
+Adsorbate-atom-force:    14 0    99.718019469843   -86.825924998353  1068.822353215477
+Adsorbate-atom-force:    15 0    42.140622313831   -33.232668140018   337.588722375682
+Adsorbate-atom-force:    16 0   -35.792234832412   -22.864524224604   359.115439605408
+Adsorbate-atom-force:    17 0   -34.819641726505   -29.903897093229   510.223652955499
+Adsorbate-atom-force:    18 0     4.506336575166    17.522351012441  -558.079254467927
+Adsorbate-atom-force:    19 0    -2.751322221642     8.061071828255  -456.464103445333
+Adsorbate-atom-force:    20 0    36.647471261967    18.669216787549   297.412500137834
+Adsorbate-atom-force:    21 0    -0.156599640737     0.798190652821  -287.942667181807
+Adsorbate-atom-force:    22 0    -4.626412445210    37.575284506205   -82.584759912245
+Adsorbate-atom-force:    23 0   -19.492700149451   -69.982510741117  -317.257450886078
+Adsorbate-atom-force:    24 0    -0.138991387768    -0.120536661185    -4.070617691580
+Adsorbate-atom-force:    25 0   142.559339270929   262.088868859813  -340.512728777760
+Adsorbate-atom-force:    26 0   -15.156284549730   -38.170860157518  -184.333633926536
+Adsorbate-atom-force:    27 0    53.426567880202    13.389925057659   420.661538743597
+Adsorbate-atom-force:    28 0    -0.423513179752    -0.448075469874    -4.471930936640
+Adsorbate-atom-force:    29 0    -6.774325851496   -25.338476487471  -343.777156813993
+Adsorbate-atom-force:    30 0   -29.781709335718    15.352928254141  -583.178971652320
+Adsorbate-atom-force:    31 0   -21.791911332224    29.277557246828   514.809995164773
+Adsorbate-atom-force:    32 0    59.554878946903     3.458587957416   486.726026526366
+Adsorbate-atom-force:    33 0  -165.046604386120  -240.715398972544  -371.726795395950
+Adsorbate-atom-charge:   0 0     0.000000000000
+Adsorbate-atom-charge:   1 0     0.000000000000
+Adsorbate-atom-charge:   2 0     0.000000000000
+Adsorbate-atom-charge:   3 0     0.000000000000
+Adsorbate-atom-charge:   4 0     0.000000000000
+Adsorbate-atom-charge:   5 0     0.000000000000
+Adsorbate-atom-charge:   6 0     0.000000000000
+Adsorbate-atom-charge:   7 0     0.000000000000
+Adsorbate-atom-charge:   8 0     0.000000000000
+Adsorbate-atom-charge:   9 0     0.000000000000
+Adsorbate-atom-charge:   10 0     0.000000000000
+Adsorbate-atom-charge:   11 0     0.000000000000
+Adsorbate-atom-charge:   12 0     0.000000000000
+Adsorbate-atom-charge:   13 0     0.000000000000
+Adsorbate-atom-charge:   14 0     0.000000000000
+Adsorbate-atom-charge:   15 0     0.000000000000
+Adsorbate-atom-charge:   16 0     0.000000000000
+Adsorbate-atom-charge:   17 0     0.000000000000
+Adsorbate-atom-charge:   18 0     0.000000000000
+Adsorbate-atom-charge:   19 0     0.000000000000
+Adsorbate-atom-charge:   20 0     0.000000000000
+Adsorbate-atom-charge:   21 0     0.000000000000
+Adsorbate-atom-charge:   22 0     0.000000000000
+Adsorbate-atom-charge:   23 0     0.000000000000
+Adsorbate-atom-charge:   24 0     0.000000000000
+Adsorbate-atom-charge:   25 0     0.000000000000
+Adsorbate-atom-charge:   26 0     0.000000000000
+Adsorbate-atom-charge:   27 0     0.000000000000
+Adsorbate-atom-charge:   28 0     0.000000000000
+Adsorbate-atom-charge:   29 0     0.000000000000
+Adsorbate-atom-charge:   30 0     0.000000000000
+Adsorbate-atom-charge:   31 0     0.000000000000
+Adsorbate-atom-charge:   32 0     0.000000000000
+Adsorbate-atom-charge:   33 0     0.000000000000
+Adsorbate-atom-scaling:  0 0     1.000000000000
+Adsorbate-atom-scaling:  1 0     1.000000000000
+Adsorbate-atom-scaling:  2 0     1.000000000000
+Adsorbate-atom-scaling:  3 0     1.000000000000
+Adsorbate-atom-scaling:  4 0     1.000000000000
+Adsorbate-atom-scaling:  5 0     1.000000000000
+Adsorbate-atom-scaling:  6 0     1.000000000000
+Adsorbate-atom-scaling:  7 0     1.000000000000
+Adsorbate-atom-scaling:  8 0     1.000000000000
+Adsorbate-atom-scaling:  9 0     1.000000000000
+Adsorbate-atom-scaling:  10 0     1.000000000000
+Adsorbate-atom-scaling:  11 0     1.000000000000
+Adsorbate-atom-scaling:  12 0     1.000000000000
+Adsorbate-atom-scaling:  13 0     1.000000000000
+Adsorbate-atom-scaling:  14 0     1.000000000000
+Adsorbate-atom-scaling:  15 0     1.000000000000
+Adsorbate-atom-scaling:  16 0     1.000000000000
+Adsorbate-atom-scaling:  17 0     1.000000000000
+Adsorbate-atom-scaling:  18 0     1.000000000000
+Adsorbate-atom-scaling:  19 0     1.000000000000
+Adsorbate-atom-scaling:  20 0     1.000000000000
+Adsorbate-atom-scaling:  21 0     1.000000000000
+Adsorbate-atom-scaling:  22 0     1.000000000000
+Adsorbate-atom-scaling:  23 0     1.000000000000
+Adsorbate-atom-scaling:  24 0     1.000000000000
+Adsorbate-atom-scaling:  25 0     1.000000000000
+Adsorbate-atom-scaling:  26 0     1.000000000000
+Adsorbate-atom-scaling:  27 0     1.000000000000
+Adsorbate-atom-scaling:  28 0     1.000000000000
+Adsorbate-atom-scaling:  29 0     1.000000000000
+Adsorbate-atom-scaling:  30 0     1.000000000000
+Adsorbate-atom-scaling:  31 0     1.000000000000
+Adsorbate-atom-scaling:  32 0     1.000000000000
+Adsorbate-atom-scaling:  33 0     1.000000000000
+Adsorbate-atom-fixed:    0 0       0 0 0
+Adsorbate-atom-fixed:    1 0       0 0 0
+Adsorbate-atom-fixed:    2 0       0 0 0
+Adsorbate-atom-fixed:    3 0       0 0 0
+Adsorbate-atom-fixed:    4 0       0 0 0
+Adsorbate-atom-fixed:    5 0       0 0 0
+Adsorbate-atom-fixed:    6 0       0 0 0
+Adsorbate-atom-fixed:    7 0       0 0 0
+Adsorbate-atom-fixed:    8 0       0 0 0
+Adsorbate-atom-fixed:    9 0       0 0 0
+Adsorbate-atom-fixed:    10 0       0 0 0
+Adsorbate-atom-fixed:    11 0       0 0 0
+Adsorbate-atom-fixed:    12 0       0 0 0
+Adsorbate-atom-fixed:    13 0       0 0 0
+Adsorbate-atom-fixed:    14 0       0 0 0
+Adsorbate-atom-fixed:    15 0       0 0 0
+Adsorbate-atom-fixed:    16 0       0 0 0
+Adsorbate-atom-fixed:    17 0       0 0 0
+Adsorbate-atom-fixed:    18 0       0 0 0
+Adsorbate-atom-fixed:    19 0       0 0 0
+Adsorbate-atom-fixed:    20 0       0 0 0
+Adsorbate-atom-fixed:    21 0       0 0 0
+Adsorbate-atom-fixed:    22 0       0 0 0
+Adsorbate-atom-fixed:    23 0       0 0 0
+Adsorbate-atom-fixed:    24 0       0 0 0
+Adsorbate-atom-fixed:    25 0       0 0 0
+Adsorbate-atom-fixed:    26 0       0 0 0
+Adsorbate-atom-fixed:    27 0       0 0 0
+Adsorbate-atom-fixed:    28 0       0 0 0
+Adsorbate-atom-fixed:    29 0       0 0 0
+Adsorbate-atom-fixed:    30 0       0 0 0
+Adsorbate-atom-fixed:    31 0       0 0 0
+Adsorbate-atom-fixed:    32 0       0 0 0
+Adsorbate-atom-fixed:    33 0       0 0 0
+
+

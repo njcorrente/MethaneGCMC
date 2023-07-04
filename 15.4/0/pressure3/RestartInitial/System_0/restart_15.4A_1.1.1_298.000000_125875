@@ -1,0 +1,91 @@
+Cell info:
+========================================================================
+number-of-unit-cells: 1 1 1
+unit-cell-vector-a:    41.752800000000     0.000000000000     0.000000000000
+unit-cell-vector-b:     0.000000000000    42.540000000000     0.000000000000
+unit-cell-vector-c:     0.000000000000     0.000000000000    41.850000000000
+
+cell-vector-a:    41.752800000000     0.000000000000     0.000000000000
+cell-vector-b:     0.000000000000    42.540000000000     0.000000000000
+cell-vector-c:     0.000000000000     0.000000000000    41.850000000000
+
+cell-lengths:    41.752800000000    42.540000000000    41.850000000000
+cell-angles:    90.000000000000    90.000000000000    90.000000000000
+
+
+Maximum changes for MC-moves:
+========================================================================
+Maximum-volume-change: 0.001563
+Maximum-Gibbs-volume-change: 0.006250
+Maximum-box-shape-change: 0.100000 0.100000 0.100000, 0.100000 0.100000 0.100000, 0.100000 0.100000 0.100000
+
+
+Acceptance targets for MC-moves:
+========================================================================
+Target-volume-change: 0.500000
+Target-box-shape-change: 0.500000
+Target-Gibbs-volume-change: 0.500000
+
+
+Components: 1 (Adsorbates 7, Cations 0)
+========================================================================
+Component 0 (methane)
+	Fractional-molecule-id component 0: -1
+	Lambda-factors component 0:  0.000000
+	Number-of-biasing-factors component 0: 21
+	Biasing-factors component 0:  0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+	Maximum-CF-Lambda-change component 0: 0.500000
+	Maximum-CBCF-Lambda-change component 0: 0.500000
+
+	Maximum-translation-change component 0: 1.000000,1.000000,1.000000
+	Maximum-translation-in-plane-change component 0: 0.000000,0.000000,0.000000
+	Maximum-rotation-change component 0: 0.736311 2.208932 2.208932
+
+Reactions: 0
+
+Component: 0     Adsorbate    7 molecules of methane
+------------------------------------------------------------------------
+Adsorbate-atom-position: 0 0    29.930339538414    26.971380971353    13.447224305065
+Adsorbate-atom-position: 1 0    38.956452519149    29.156265705395    25.369912439465
+Adsorbate-atom-position: 2 0    21.494233763303    12.629584484590    25.011934435082
+Adsorbate-atom-position: 3 0     4.629196555477    14.384105500469    14.897253248911
+Adsorbate-atom-position: 4 0    33.289753475836    14.142359499003    24.891457090441
+Adsorbate-atom-position: 5 0    30.704927995411    36.838022718584    25.359074455564
+Adsorbate-atom-position: 6 0    18.138997844907    21.118410122497    25.142955136749
+Adsorbate-atom-velocity: 0 0    -0.002662483063     2.979993195705    -0.492222160607
+Adsorbate-atom-velocity: 1 0     5.423111026473     5.841441414626    -1.452398105475
+Adsorbate-atom-velocity: 2 0     2.881970548207     2.209758469762    -4.986451368928
+Adsorbate-atom-velocity: 3 0    -3.274887315434    -1.188110376501    -5.633270777208
+Adsorbate-atom-velocity: 4 0    -2.567215391637     5.439589132983    -6.058524532594
+Adsorbate-atom-velocity: 5 0     6.379259886113    -6.035353448285     0.007143119017
+Adsorbate-atom-velocity: 6 0    -1.355404688199    -2.197170922214     0.331597168388
+Adsorbate-atom-force:    0 0   -29.333085281517   -46.430880690816   720.500003764129
+Adsorbate-atom-force:    1 0    33.999805914209    -8.449437078665  -150.105743217760
+Adsorbate-atom-force:    2 0     4.785104959271    -3.023695321720   515.270662280307
+Adsorbate-atom-force:    3 0    -0.050689690562    -0.026187429909  -365.036932154877
+Adsorbate-atom-force:    4 0    -1.779839595839     0.421618423753   576.638915716933
+Adsorbate-atom-force:    5 0     0.527784132884    -2.177174196296  -266.698836109537
+Adsorbate-atom-force:    6 0    -6.024835375930    -5.251430704581   365.930804222006
+Adsorbate-atom-charge:   0 0     0.000000000000
+Adsorbate-atom-charge:   1 0     0.000000000000
+Adsorbate-atom-charge:   2 0     0.000000000000
+Adsorbate-atom-charge:   3 0     0.000000000000
+Adsorbate-atom-charge:   4 0     0.000000000000
+Adsorbate-atom-charge:   5 0     0.000000000000
+Adsorbate-atom-charge:   6 0     0.000000000000
+Adsorbate-atom-scaling:  0 0     1.000000000000
+Adsorbate-atom-scaling:  1 0     1.000000000000
+Adsorbate-atom-scaling:  2 0     1.000000000000
+Adsorbate-atom-scaling:  3 0     1.000000000000
+Adsorbate-atom-scaling:  4 0     1.000000000000
+Adsorbate-atom-scaling:  5 0     1.000000000000
+Adsorbate-atom-scaling:  6 0     1.000000000000
+Adsorbate-atom-fixed:    0 0       0 0 0
+Adsorbate-atom-fixed:    1 0       0 0 0
+Adsorbate-atom-fixed:    2 0       0 0 0
+Adsorbate-atom-fixed:    3 0       0 0 0
+Adsorbate-atom-fixed:    4 0       0 0 0
+Adsorbate-atom-fixed:    5 0       0 0 0
+Adsorbate-atom-fixed:    6 0       0 0 0
+
+
